@@ -1,10 +1,14 @@
 4 tomatoes
 6 shallots
 1 fennel bulb
-<<<<<<< HEAD
+
 1 utikac za struju
-=======
+
 hrana za macke
->>>>>>> 591a4bf (Update groceries.txt)
+
+
+1kg hrane za macke
+1kg hrane za psa
+
 
 couple of seed potatos
