@@ -4,3 +4,4 @@
 1l totala
 ubaciti gliste
 dodao crvice
+kupio hranilice
